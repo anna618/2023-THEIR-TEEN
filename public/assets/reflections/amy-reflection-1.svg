@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1320" viewBox="0 0 1080 1320" role="img" aria-labelledby="title">
+  <title id="title">Amy 心得圖片佔位圖</title>
+  <rect width="1080" height="1320" fill="#fffaf2"/>
+  <rect x="72" y="72" width="936" height="1176" rx="28" fill="#ffffff" stroke="#d7c8b7" stroke-width="4"/>
+  <text x="120" y="180" fill="#1f3633" font-family="Arial, sans-serif" font-size="62" font-weight="700">Amy 心得圖片</text>
+  <text x="120" y="270" fill="#394643" font-family="Arial, sans-serif" font-size="36">請替換成學生提供的心得圖。</text>
+  <rect x="120" y="360" width="840" height="48" rx="16" fill="#dbe8df"/>
+  <rect x="120" y="450" width="760" height="48" rx="16" fill="#dbe8df"/>
+  <rect x="120" y="540" width="820" height="48" rx="16" fill="#dbe8df"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1320" viewBox="0 0 1080 1320" role="img" aria-labelledby="title">
+  <title id="title">Cara 心得圖片二佔位圖</title>
+  <rect width="1080" height="1320" fill="#fffaf2"/>
+  <rect x="72" y="72" width="936" height="1176" rx="28" fill="#ffffff" stroke="#d7c8b7" stroke-width="4"/>
+  <text x="120" y="180" fill="#1f3633" font-family="Arial, sans-serif" font-size="62" font-weight="700">Cara 心得圖片 2</text>
+  <text x="120" y="270" fill="#394643" font-family="Arial, sans-serif" font-size="36">多張心得圖會在手機上上下堆疊。</text>
+  <rect x="120" y="360" width="840" height="56" rx="16" fill="#f3dfc4"/>
+  <rect x="120" y="460" width="700" height="56" rx="16" fill="#f3dfc4"/>
+  <rect x="120" y="560" width="780" height="56" rx="16" fill="#f3dfc4"/>
+</svg>
